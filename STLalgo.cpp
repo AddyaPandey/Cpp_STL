@@ -29,4 +29,4 @@ int main(){
     int sum = accumulate(age.begin(), age.end(), 0);
 
     cout << "The sum of the element of array is : " << sum;
-}
+}i
